@@ -1,5 +1,6 @@
 # Spi Driver
-Geting hex file location steps on Arduino IDE [here]([https://google.com](https://circuits4you.com/2016/06/23/how-to-get-hex-file-in-arduino/)https://circuits4you.com/2016/06/23/how-to-get-hex-file-in-arduino/)
+Geting hex file location steps on Arduino IDE
+[here]([https://google.com](https://circuits4you.com/2016/06/23/how-to-get-hex-file-in-arduino/)https://circuits4you.com/2016/06/23/how-to-get-hex-file-in-arduino/)
 >> In this project the Arduino Uno is configured as master and using SPI Mode 3 for communication.
 ![SPI CIRCUIT](https://github.com/anoopjayaram/spi-driver/assets/66719752/7bb67237-089f-46fa-a608-0577d33fd96d)
 
