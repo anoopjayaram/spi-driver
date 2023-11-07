@@ -8,4 +8,4 @@ OUTPUT
 >> Atmega328p(Arduino Uno ) Sending numbers for 0 to 9 -> Atmega32
 ![SPI OUTUT](https://github.com/anoopjayaram/spi-driver/assets/66719752/0223a3cb-1a0d-43d5-ac90-15c482121177)
 
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[a link](https://google.com)
