@@ -1,4 +1,5 @@
 # spi-driver  
+>> In this project the Arduino Uno is configured as master and using SPI Mode 3 for communication.
 ![SPI CIRCUIT](https://github.com/anoopjayaram/spi-driver/assets/66719752/7bb67237-089f-46fa-a608-0577d33fd96d)
 
 
